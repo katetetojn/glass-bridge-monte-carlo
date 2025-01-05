@@ -16,7 +16,7 @@ What are the odds of the players surviving Squid Game's glass bridge challenge, 
 
 ## Results
 
-The results, analysis, and visualization are presented ![here](https://katetetojn.github.io/2025/01/04/glass-bridge-monte-carlo.html). 
+The results, analysis, and visualization are presented [here](https://katetetojn.github.io/2025/01/04/glass-bridge-monte-carlo.html). 
 
 ## Try It Yourself
 
